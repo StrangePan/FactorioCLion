@@ -1,0 +1,128 @@
+<toolSet name="External Tools">
+  <tool name="osx Clang-Debugarm64-factorio-run" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="fastbuild/osx/FBuild" />
+      <option name="PARAMETERS" value="-config fastbuild/fbuild.bff Clang-Debugarm64-factorio-run" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="osx Clang-Debugarm64-factorio-run-internal" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="fastbuild/osx/FBuild" />
+      <option name="PARAMETERS" value="-config fastbuild/fbuild.bff Clang-Debugarm64-factorio-run-internal" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="osx Clang-Releasearm64-factorio-run" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="fastbuild/osx/FBuild" />
+      <option name="PARAMETERS" value="-config fastbuild/fbuild.bff Clang-Releasearm64-factorio-run" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="osx Clang-Releasearm64-factorio-run-internal" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="fastbuild/osx/FBuild" />
+      <option name="PARAMETERS" value="-config fastbuild/fbuild.bff Clang-Releasearm64-factorio-run-internal" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="osx Clang-Debugx64-factorio-run" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="fastbuild/osx/FBuild" />
+      <option name="PARAMETERS" value="-config fastbuild/fbuild.bff Clang-Debugx64-factorio-run" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="osx Clang-Debugx64-factorio-run-internal" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="fastbuild/osx/FBuild" />
+      <option name="PARAMETERS" value="-config fastbuild/fbuild.bff Clang-Debugx64-factorio-run-internal" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="osx Clang-DebugASANx64-factorio-run" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="fastbuild/osx/FBuild" />
+      <option name="PARAMETERS" value="-config fastbuild/fbuild.bff Clang-DebugASANx64-factorio-run" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="osx Clang-Releasex64-factorio-run" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="fastbuild/osx/FBuild" />
+      <option name="PARAMETERS" value="-config fastbuild/fbuild.bff Clang-Releasex64-factorio-run" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="osx Clang-Debug-factorio-run" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="fastbuild/osx/FBuild" />
+      <option name="PARAMETERS" value="-config fastbuild/fbuild.bff Clang-Debug-factorio-run" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="osx Clang-Release-factorio-run" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="fastbuild/osx/FBuild" />
+      <option name="PARAMETERS" value="-config fastbuild/fbuild.bff Clang-Release-factorio-run" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="osx Clang-Debugarm64-factorio-test" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="fastbuild/osx/FBuild" />
+      <option name="PARAMETERS" value="-config fastbuild/fbuild.bff Clang-Debugarm64-factorio-test" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="osx Clang-Debugarm64-factorio-test-internal" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="fastbuild/osx/FBuild" />
+      <option name="PARAMETERS" value="-config fastbuild/fbuild.bff Clang-Debugarm64-factorio-test-internal" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="osx Clang-Releasearm64-factorio-test" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="fastbuild/osx/FBuild" />
+      <option name="PARAMETERS" value="-config fastbuild/fbuild.bff Clang-Releasearm64-factorio-test" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="osx Clang-Debugx64-factorio-test" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="fastbuild/osx/FBuild" />
+      <option name="PARAMETERS" value="-config fastbuild/fbuild.bff Clang-Debugx64-factorio-test" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="osx Clang-Releasex64-factorio-test" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="fastbuild/osx/FBuild" />
+      <option name="PARAMETERS" value="-config fastbuild/fbuild.bff Clang-Releasex64-factorio-test" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="osx Clang-FastDebugarm64-factorio-without-common-hpp" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="fastbuild/osx/FBuild" />
+      <option name="PARAMETERS" value="-config fastbuild/fbuild.bff Clang-FastDebugarm64-factorio-without-common-hpp" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="osx Clang-VanillaDebugarm64-factorio-run" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="fastbuild/osx/FBuild" />
+      <option name="PARAMETERS" value="-config fastbuild/fbuild.bff Clang-VanillaDebugarm64-factorio-run" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="osx Clang-VanillaFastDebugarm64-factorio-run" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="fastbuild/osx/FBuild" />
+      <option name="PARAMETERS" value="-config fastbuild/fbuild.bff Clang-VanillaFastDebugarm64-factorio-run" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>

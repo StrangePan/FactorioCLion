@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="osx universal run debug" type="CLionExternalRunConfiguration" factoryName="Application" folderName="osx universal" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Factorio" TARGET_NAME="osx Clang-Debug-factorio-run" CONFIG_NAME="osx Clang-Debug-factorio-run" RUN_PATH="bin/DebugClang/factorio-run">
+    <method v="2">
+      <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+    </method>
+  </configuration>
+</component>

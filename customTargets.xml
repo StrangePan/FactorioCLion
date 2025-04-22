@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CLionExternalBuildManager">
+    <target id="fe2ca01d-e9e4-4d5e-b307-ca09270c6a6e" name="None" defaultType="TOOL">
+      <configuration id="d8e5a0ee-63a1-4a92-b493-2c830d349306" name="None" />
+    </target>
+    <target id="a0c8d9a1-2c52-4d0c-ba3d-549042488b90" name="osx Clang-Debugarm64-factorio-run" defaultType="TOOL">
+      <configuration id="96b55f8b-1195-4e54-a8e9-c0762671a694" name="osx Clang-Debugarm64-factorio-run">
+        <build type="TOOL">
+          <tool actionId="Tool_External Tools_osx Clang-Debugarm64-factorio-run" />
+        </build>
+      </configuration>
+    </target>
+    <target id="2484a18f-f91f-484b-b910-408c577a64e7" name="osx Clang-Debugarm64-factorio-run-internal" defaultType="TOOL">
+      <configuration id="23a93b42-f8cb-45e5-8349-c910d37c1a4f" name="osx Clang-Debugarm64-factorio-run-internal">
+        <build type="TOOL">
+          <tool actionId="Tool_External Tools_osx Clang-Debugarm64-factorio-run-internal" />
+        </build>
+      </configuration>
+    </target>
+    <target id="11706a81-81a7-4639-96a9-ad7d381a0cce" name="osx Clang-Releasearm64-factorio-run-internal" defaultType="TOOL">
+      <configuration id="525e35f3-d09c-469f-9d74-c412d0a8e836" name="osx Clang-Releasearm64-factorio-run-internal">
+        <build type="TOOL">
+          <tool actionId="Tool_External Tools_osx Clang-Releasearm64-factorio-run-internal" />
+        </build>
+      </configuration>
+    </target>
+    <target id="2a4c0527-e196-4148-8162-fd77c1f0d9b9" name="osx Clang-Releasearm64-factorio-run" defaultType="TOOL">
+      <configuration id="e0e62914-b902-4e19-8b67-241c46d4275c" name="osx Clang-Releasearm64-factorio-run">
+        <build type="TOOL">
+          <tool actionId="Tool_External Tools_osx Clang-Releasearm64-factorio-run" />
+        </build>
+      </configuration>
+    </target>
+    <target id="053d5d23-8510-49e8-a39f-566a9c5e1fb8" name="osx Clang-Debugx64-factorio-run" defaultType="TOOL">
+      <configuration id="355e58e7-c980-4174-93c5-013c7ae9ab92" name="osx Clang-Debugx64-factorio-run">
+        <build type="TOOL">
+          <tool actionId="Tool_External Tools_osx Clang-Debugx64-factorio-run" />
+        </build>
+      </configuration>
+    </target>
+    <target id="2462dc8e-25fd-416b-a5b3-05df82619790" name="osx Clang-DebugASANx64-factorio-run" defaultType="TOOL">
+      <configuration id="61e18b7f-da48-45b0-85ee-d496a259edd5" name="osx Clang-DebugASANx64-factorio-run">
+        <build type="TOOL">
+          <tool actionId="Tool_External Tools_osx Clang-DebugASANx64-factorio-run" />
+        </build>
+      </configuration>
+    </target>
+    <target id="f799417f-6b40-4028-bf19-7b23996c24d9" name="osx Clang-Releasex64-factorio-run" defaultType="TOOL">
+      <configuration id="60398f94-241d-4bec-b064-21d81c89111e" name="osx Clang-Releasex64-factorio-run">
+        <build type="TOOL">
+          <tool actionId="Tool_External Tools_osx Clang-Releasex64-factorio-run" />
+        </build>
+      </configuration>
+    </target>
+    <target id="ebab04e4-b961-4e46-a792-f482ba6a3a6b" name="osx Clang-Debug-factorio-run" defaultType="TOOL">
+      <configuration id="c202811a-e80d-4616-882a-89a43b5764c9" name="osx Clang-Debug-factorio-run">
+        <build type="TOOL">
+          <tool actionId="Tool_External Tools_osx Clang-Debug-factorio-run" />
+        </build>
+      </configuration>
+    </target>
+    <target id="7fa4af53-9fc2-45df-b8c8-8f7c43f3c407" name="osx Clang-Release-factorio-run" defaultType="TOOL">
+      <configuration id="c5159c4b-4410-4a3a-a313-bfc12576d7e5" name="osx Clang-Release-factorio-run">
+        <build type="TOOL">
+          <tool actionId="Tool_External Tools_osx Clang-Release-factorio-run" />
+        </build>
+      </configuration>
+    </target>
+    <target id="9549375d-1e84-4305-ada0-dc775bf3a7fe" name="osx Clang-Debugarm64-factorio-test" defaultType="TOOL">
+      <configuration id="2c7a196f-cb9e-4a94-8388-45f6896ac6ea" name="osx Clang-Debugarm64-factorio-test">
+        <build type="TOOL">
+          <tool actionId="Tool_External Tools_osx Clang-Debugarm64-factorio-test" />
+        </build>
+      </configuration>
+    </target>
+    <target id="093a79a3-03ed-44e7-b6e4-947e95dfdd5f" name="osx Clang-Debugarm64-factorio-test-internal" defaultType="TOOL">
+      <configuration id="eee37158-9427-44c8-bce9-c1a38ee8ecfc" name="osx Clang-Debugarm64-factorio-test-internal">
+        <build type="TOOL">
+          <tool actionId="Tool_External Tools_osx Clang-Debugarm64-factorio-test-internal" />
+        </build>
+      </configuration>
+    </target>
+    <target id="780941fc-2831-4122-927e-c6d9d1616dea" name="osx Clang-Releasearm64-factorio-test" defaultType="TOOL">
+      <configuration id="c2ad2fdb-5815-4e60-8892-8b6444028dae" name="osx Clang-Releasearm64-factorio-test">
+        <build type="TOOL">
+          <tool actionId="Tool_External Tools_osx Clang-Releasearm64-factorio-test" />
+        </build>
+      </configuration>
+    </target>
+    <target id="334f3201-53d0-454e-8a50-d810e502fb1e" name="osx Clang-Debugx64-factorio-test" defaultType="TOOL">
+      <configuration id="d9b0a94a-2c07-4fa2-8e88-ec1a19f3a03b" name="osx Clang-Debugx64-factorio-test">
+        <build type="TOOL">
+          <tool actionId="Tool_External Tools_osx Clang-Debugx64-factorio-test" />
+        </build>
+      </configuration>
+    </target>
+    <target id="496cd820-5d15-4fa5-8125-515656b8e13a" name="osx Clang-Releasex64-factorio-test" defaultType="TOOL">
+      <configuration id="bd374c96-101a-4ee6-8e3b-0d05b3856e99" name="osx Clang-Releasex64-factorio-test">
+        <build type="TOOL">
+          <tool actionId="Tool_External Tools_osx Clang-Releasex64-factorio-test" />
+        </build>
+      </configuration>
+    </target>
+    <target id="6197d95a-5424-4d5d-85ed-23f25f8cee43" name="osx Clang-FastDebugarm64-factorio-without-common-hpp" defaultType="TOOL">
+      <configuration id="6df3fe5b-28f1-414b-bd8f-81e9c3674ece" name="osx Clang-FastDebugarm64-factorio-without-common-hpp">
+        <build type="TOOL">
+          <tool actionId="Tool_External Tools_osx Clang-FastDebugarm64-factorio-without-common-hpp" />
+        </build>
+      </configuration>
+    </target>
+    <target id="75deccf2-7f1f-4599-94a9-7d89bc5b6c33" name="osx Clang-VanillaDebugarm64-factorio-run" defaultType="TOOL">
+      <configuration id="aa9a4003-a311-434c-937c-b29e4d828cb7" name="osx Clang-VanillaDebugarm64-factorio-run">
+        <build type="TOOL">
+          <tool actionId="Tool_External Tools_osx Clang-VanillaDebugarm64-factorio-run" />
+        </build>
+      </configuration>
+    </target>
+    <target id="b54479c4-d996-4fe0-9cce-6a014a9f30ea" name="osx Clang-VanillaFastDebugarm64-factorio-run" defaultType="TOOL">
+      <configuration id="dd04d814-a176-46e3-9adf-5b5065c05bc5" name="osx Clang-VanillaFastDebugarm64-factorio-run">
+        <build type="TOOL">
+          <tool actionId="Tool_External Tools_osx Clang-VanillaFastDebugarm64-factorio-run" />
+        </build>
+      </configuration>
+    </target>
+  </component>
+</project>
