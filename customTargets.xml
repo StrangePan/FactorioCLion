@@ -123,5 +123,12 @@
         </build>
       </configuration>
     </target>
+    <target id="3c2b39a8-4a4e-407e-95c8-474911a17497" name="win vsbt-Debugx64-factorio-run" defaultType="TOOL">
+      <configuration id="b3d86fbd-7c70-47e5-a9b3-181cfff392ee" name="win vsbt-Debugx64-factorio-run">
+        <build type="TOOL">
+          <tool actionId="Tool_External Tools_win vsbt-Debugx64-factorio-run" />
+        </build>
+      </configuration>
+    </target>
   </component>
 </project>
