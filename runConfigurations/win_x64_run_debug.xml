@@ -1,8 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="win x64 run debug" type="CLionExternalRunConfiguration" factoryName="Application" folderName="win x64" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Factorio" TARGET_NAME="win vsbt-Debugx64-factorio-run" CONFIG_NAME="win vsbt-Debugx64-factorio-run" RUN_PATH="bin/Debugx64vsbt/factorio-run.exe">
-    <envs>
-      <env name="GENERATE_BUILD_VERSION" value="true" />
-    </envs>
+  <configuration default="false" name="win x64 run debug" type="CLionExternalRunConfiguration" factoryName="Application" folderName="win x64" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" WORKING_DIR="file://$ProjectFileDir$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Factorio" TARGET_NAME="win vsbt-Debugx64-factorio-run" CONFIG_NAME="win vsbt-Debugx64-factorio-run" RUN_PATH="bin/Debugx64vsbt/factorio-run.exe">
     <method v="2">
       <option name="CLION.EXTERNAL.BUILD" enabled="true" />
     </method>
