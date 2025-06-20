@@ -1,7 +1,7 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="win x64 build compdb" type="CLionExternalRunConfiguration" factoryName="Application" folderName="win x64" PROGRAM_PARAMS="-config fastbuild\fbuild.bff -compdb vsbt-SteamDebugx64-factorio-without-common-hpp vsbt-Debugx64-factorio-test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" WORKING_DIR="file://$ProjectFileDir$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Factorio" TARGET_NAME="None" CONFIG_NAME="None" RUN_PATH="fastbuild/FBuild.exe">
     <envs>
-      <env name="FBUILD_KEEP_ROOT_PATH" value="1" />
+      <env name="FBUILD_KEEP_ROOT_PATH" value="&quot;true&quot;" />
       <env name="BUILD_ICON" value="&quot;false&quot;" />
     </envs>
     <method v="2" />
