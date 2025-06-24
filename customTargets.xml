@@ -123,10 +123,31 @@
         </build>
       </configuration>
     </target>
-    <target id="3c2b39a8-4a4e-407e-95c8-474911a17497" name="win vsbt-Debugx64-factorio-run" defaultType="TOOL">
-      <configuration id="b3d86fbd-7c70-47e5-a9b3-181cfff392ee" name="win vsbt-Debugx64-factorio-run">
+    <target id="3560e1bc-fb2b-4b10-b0c8-c0f73c4f6588" name="win vsbt-Debugx64-factorio-run" defaultType="TOOL">
+      <configuration id="a8c63957-9d73-43cd-a818-21e50663577e" name="win vsbt-Debugx64-factorio-run">
         <build type="TOOL">
           <tool actionId="Tool_External Tools_win vsbt-Debugx64-factorio-run" />
+        </build>
+      </configuration>
+    </target>
+    <target id="bc1b7fc4-7bde-4139-8e19-4576da3c7d26" name="win vsbt-Debugx64-factorio-test" defaultType="TOOL">
+      <configuration id="c8f7da7e-d62a-4942-9368-b993f40427ca" name="win vsbt-Debugx64-factorio-test">
+        <build type="TOOL">
+          <tool actionId="Tool_External Tools_win vsbt-Debugx64-factorio-test" />
+        </build>
+      </configuration>
+    </target>
+    <target id="3c2b39a8-4a4e-407e-95c8-474911a17497" name="win vsbt-Releasex64-factorio-run" defaultType="TOOL">
+      <configuration id="b3d86fbd-7c70-47e5-a9b3-181cfff392ee" name="win vsbt-Releasex64-factorio-run">
+        <build type="TOOL">
+          <tool actionId="Tool_External Tools_win vsbt-Releasex64-factorio-run" />
+        </build>
+      </configuration>
+    </target>
+    <target id="c1fdebaf-0605-430b-aaa2-34556cc7be27" name="win vsbt-Releasex64-factorio-test" defaultType="TOOL">
+      <configuration id="7e85529c-c6d8-4c35-a5d1-a2e31198d592" name="win vsbt-Releasex64-factorio-test">
+        <build type="TOOL">
+          <tool actionId="Tool_External Tools_win vsbt-Releasex64-factorio-test" />
         </build>
       </configuration>
     </target>
