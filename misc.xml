@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.13 virtualenv at ~/Developer/Factorio/Factorio/.venv" />
+  </component>
+  <component name="CidrRootsConfiguration">
+    <excludeRoots>
+      <file path="$PROJECT_DIR$/Clang" />
+      <file path="$PROJECT_DIR$/bin" />
+      <file path="$PROJECT_DIR$/build_temp" />
+      <file path="$PROJECT_DIR$/cmake-build-debug" />
+      <file path="$PROJECT_DIR$/scripts/lua_doc/doc-files" />
+      <file path="$PROJECT_DIR$/temp" />
+    </excludeRoots>
+  </component>
   <component name="CompDBSettings">
     <option name="linkedExternalProjectsSettings">
       <CompDBProjectSettings>
@@ -13,14 +26,4 @@
     </option>
   </component>
   <component name="CompDBWorkspace" PROJECT_DIR="$PROJECT_DIR$" />
-  <component name="CidrRootsConfiguration">
-    <excludeRoots>
-      <file path="$PROJECT_DIR$/Clang" />
-      <file path="$PROJECT_DIR$/bin" />
-      <file path="$PROJECT_DIR$/build_temp" />
-      <file path="$PROJECT_DIR$/cmake-build-debug" />
-      <file path="$PROJECT_DIR$/scripts/lua_doc/doc-files" />
-      <file path="$PROJECT_DIR$/temp" />
-    </excludeRoots>
-  </component>
 </project>
