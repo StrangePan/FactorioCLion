@@ -123,10 +123,17 @@
         </build>
       </configuration>
     </target>
-    <target id="27c68120-2c27-49f8-a73b-e77eedbf6fd2" name="ios AppleClang-iPad-DebuPackagegarm64-factorio-run-internal" defaultType="TOOL">
-      <configuration id="dd7a19e9-a4d1-44a9-824c-fdd0f724e690" name="ios AppleClang-iPad-DebuPackagegarm64-factorio-run-internal">
+    <target id="27c68120-2c27-49f8-a73b-e77eedbf6fd2" name="ios AppleClang-iPad-DebugPackagegarm64-factorio-run-internal" defaultType="TOOL">
+      <configuration id="dd7a19e9-a4d1-44a9-824c-fdd0f724e690" name="ios AppleClang-iPad-DebugPackagegarm64-factorio-run-internal">
         <build type="TOOL">
           <tool actionId="Tool_External Tools_ios AppleClang-iPad-DebugPackagearm64-factorio-run-internal" />
+        </build>
+      </configuration>
+    </target>
+    <target id="a543a3e6-2847-4402-a54c-1afa2007f347" name="ios AppleClang-iPadSimulator-DebugPackagegarm64-factorio-run-internal" defaultType="TOOL">
+      <configuration id="c0fd7ddc-b2bc-482d-bcb1-97c24cad8a50" name="ios AppleClang-iPadSimulator-DebugPackagegarm64-factorio-run-internal">
+        <build type="TOOL">
+          <tool actionId="Tool_External Tools_ios AppleClang-iPadSimulator-DebugPackagearm64-factorio-run-internal" />
         </build>
       </configuration>
     </target>

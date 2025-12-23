@@ -5,6 +5,7 @@
   </component>
   <component name="CidrRootsConfiguration">
     <excludeRoots>
+      <file path="$PROJECT_DIR$/AppleClang" />
       <file path="$PROJECT_DIR$/Clang" />
       <file path="$PROJECT_DIR$/Factorio.xcodeproj" />
       <file path="$PROJECT_DIR$/bin" />
