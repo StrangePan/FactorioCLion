@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="ios-sim arm64 build compdb" type="CLionExternalRunConfiguration" factoryName="Application" folderName="ios-sim arm64" PROGRAM_PARAMS="-config fastbuild/fbuild.bff -compdb AppleClang-iPadSimulator-DebugPackagearm64-factorio-without-common-hpp" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" WORKING_DIR="file://$ProjectFileDir$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Factorio" TARGET_NAME="None" CONFIG_NAME="None" RUN_PATH="fastbuild/osx/FBuild">
+  <configuration default="false" name="ios-sim arm64 build compdb" type="CLionExternalRunConfiguration" factoryName="Application" folderName="ios-sim arm64" PROGRAM_PARAMS="-config fastbuild/fbuild.bff -compdb AppleClang-DebugPackageIosSimarm64-factorio-without-common-hpp" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" WORKING_DIR="file://$ProjectFileDir$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Factorio" TARGET_NAME="None" CONFIG_NAME="None" RUN_PATH="fastbuild/osx/FBuild">
     <method v="2" />
   </configuration>
 </component>
