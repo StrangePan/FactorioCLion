@@ -125,17 +125,17 @@
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
-  <tool name="ios AppleClang-iPad-DebugPackagearm64-factorio-run-internal" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="ios AppleClang-DebugPackageIosarm64-factorio-run-internal" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="fastbuild/osx/FBuild" />
-      <option name="PARAMETERS" value="-config fastbuild/fbuild.bff AppleClang-iPad-DebugPackagearm64-factorio-run-internal" />
+      <option name="PARAMETERS" value="-config fastbuild/fbuild.bff AppleClang-DebugPackageIosarm64-factorio-run-internal" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
-  <tool name="ios AppleClang-iPadSimulator-DebugPackagearm64-factorio-run-internal" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="ios AppleClang-DebugPackageIosSimarm64-factorio-run-internal" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="fastbuild/osx/FBuild" />
-      <option name="PARAMETERS" value="-config fastbuild/fbuild.bff AppleClang-iPadSimulator-DebugPackagearm64-factorio-run-internal" />
+      <option name="PARAMETERS" value="-config fastbuild/fbuild.bff AppleClang-DebugPackageIosSimarm64-factorio-run-internal" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
