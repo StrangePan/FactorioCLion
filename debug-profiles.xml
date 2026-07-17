@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Debug Profiles">
+    <debug-profiles>
+      <debug-profile>
+        <option name="id" value="57327321-c495-4b02-9d7e-fd40ad404c47" />
+        <option name="type" value="lldb" />
+        <option name="name" value="Xcode LLDB" />
+        <settings>
+          <option name="executable" value="/Applications/Xcode.app/Contents/Developer/usr/bin/lldb" />
+        </settings>
+      </debug-profile>
+      <debug-profile>
+        <option name="id" value="2a55a316-b9e5-46bd-8ff1-7febd9a7ef81" />
+        <option name="type" value="lldb" />
+        <option name="name" value="Xcode-beta LLDB" />
+        <settings>
+          <option name="executable" value="/Applications/Xcode-beta.app/Contents/Developer/usr/bin/lldb" />
+        </settings>
+      </debug-profile>
+    </debug-profiles>
+  </component>
+</project>
