@@ -130,8 +130,8 @@
         </build>
       </configuration>
     </target>
-    <target id="27c68120-2c27-49f8-a73b-e77eedbf6fd2" name="ios AppleClang-DebugPackagegIosarm64-factorio-run-internal" defaultType="TOOL">
-      <configuration id="dd7a19e9-a4d1-44a9-824c-fdd0f724e690" name="ios AppleClang-DebugPackagegIosarm64-factorio-run-internal">
+    <target id="27c68120-2c27-49f8-a73b-e77eedbf6fd2" name="ios AppleClang-DebugPackageIosarm64-factorio-run-internal" defaultType="TOOL">
+      <configuration id="dd7a19e9-a4d1-44a9-824c-fdd0f724e690" name="ios AppleClang-DebugPackageIosarm64-factorio-run-internal">
         <build type="TOOL">
           <tool actionId="Tool_External Tools_ios AppleClang-DebugPackageIosarm64-factorio-run-internal" />
         </build>
