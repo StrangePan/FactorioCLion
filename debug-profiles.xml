@@ -7,7 +7,7 @@
         <option name="type" value="lldb" />
         <option name="name" value="Xcode LLDB" />
         <settings>
-          <option name="executable" value="/Applications/Xcode.app/Contents/Developer/usr/bin/lldb" />
+          <option name="executable" value="/Applications/Xcode.app/" />
         </settings>
       </debug-profile>
       <debug-profile>
@@ -15,7 +15,7 @@
         <option name="type" value="lldb" />
         <option name="name" value="Xcode-beta LLDB" />
         <settings>
-          <option name="executable" value="/Applications/Xcode-beta.app/Contents/Developer/usr/bin/lldb" />
+          <option name="executable" value="/Applications/Xcode-beta.app/" />
         </settings>
       </debug-profile>
     </debug-profiles>
