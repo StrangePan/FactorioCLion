@@ -1,7 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="osx arm64 compdb" type="CLionExternalRunConfiguration" factoryName="Application" folderName="osx arm64" activateToolWindowBeforeRun="false" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Factorio" TARGET_NAME="osx arm64 compdb" CONFIG_NAME="osx arm64 compdb">
-    <method v="2">
-      <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-    </method>
+  <configuration default="false" name="osx arm64 compdb" type="CLionExternalRunConfiguration" factoryName="Application" folderName="osx arm64" activateToolWindowBeforeRun="false" PROGRAM_PARAMS="-config fastbuild/fbuild.bff -compdb Clang-SteamDebugarm64-factorio-without-common-hpp Clang-Debugarm64-factorio-test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" WORKING_DIR="file://$ProjectFileDir$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Factorio" TARGET_NAME="osx arm64 compdb" CONFIG_NAME="osx arm64 compdb" RUN_PATH="fastbuild/osx/fbuild">
+    <method v="2" />
   </configuration>
 </component>
