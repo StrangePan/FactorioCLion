@@ -10,3 +10,4 @@ editor.xml
 copilot.data.migration.*
 
 .DS_Store
+/doNotAskNotifications.xml
