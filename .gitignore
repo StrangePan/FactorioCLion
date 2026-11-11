@@ -11,3 +11,5 @@ copilot.data.migration.*
 
 .DS_Store
 /doNotAskNotifications.xml
+*.iml
+
